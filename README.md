@@ -110,6 +110,6 @@ Developed a web scraping and data analysis pipeline using Python. Extracted and 
 ## 👩‍💻 Author
 
 Afrin Banu Z
-B.Tech. Artificial Intelligence and Data Science
+  (B.Tech. Artificial Intelligence and Data Science)
 
 
